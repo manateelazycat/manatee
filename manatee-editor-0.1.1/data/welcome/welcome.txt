@@ -1,0 +1,24 @@
+Hi, there!
+
+Welcome to Manatee (The Haskell/Gtk+ Integrated Live Environment) !
+
+Want to know what's it? 
+Please watch video: 
+    http://www.youtube.com/watch?v=weS6zys3U8k or http://www.youtube.com/watch?v=A3DgKDVkyeM
+	
+How to use it?
+Please read wiki page:
+    http://haskell.org/haskellwiki/Manatee	
+	
+Here have some screenshot:
+    http://goo.gl/MkVw
+	
+Please report bug or suggestion to:
+    manatee-user@googlegroups.com
+
+If you're lucky, you can find me (ManateeLazyCat) at IRC:
+   (irc.freenode.net 6667 ##manatee)
+
+Enjoy! :)
+
+   -- Andy
